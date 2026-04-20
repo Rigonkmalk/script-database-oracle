@@ -58,7 +58,7 @@ help () {
 		--oracle-23 : Launch v23 version of Oracle Database
 		--oracle-21 : Launch v21 version of Oracle Database
 		--oracle-18 : Launch v18 version of Oracle Database
-		--oracle-11 : Launch v11 R2 verison of Oracle Database
+		--oracle-11 : Launch v11 R2 version of Oracle Database
 		--oracle-del : deletion of Oracle Docker Instance
 		--help : List all arguments on this script
 	"
